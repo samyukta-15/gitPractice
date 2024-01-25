@@ -4,9 +4,11 @@ public class GitJava {
 	
 	private String name;
 	private int age;
+	private int empid;
+	private int location;
 	
 	public int calculation(int age) {
-		return age+10;
+		return age+20;
 		
 	}
 
