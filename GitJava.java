@@ -8,7 +8,7 @@ public class GitJava {
 	private int location;
 	
 	public int calculation(int age) {
-		return age+20;		
+		return age+40;		
 	}
 		public String displayName(String name) {
 		return name;	
